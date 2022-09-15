@@ -1,1 +1,1 @@
-RUN npm run dev
+RUN  docker pull klakegg/hugo
