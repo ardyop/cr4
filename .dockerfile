@@ -1,1 +1,1 @@
-RUN  docker pull klakegg/hugo
+RUN docker pull klakegg/hugo 
