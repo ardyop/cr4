@@ -1,2 +1,3 @@
-# Crauser
-this is an organisation pre-repository i creating a project with nodejs and nextjs with a developer con5
+# Introduction
+Crauser is an open source data site connector project manager using go , python , c , java , Dockerfile.
+
