@@ -9,6 +9,7 @@ go , python , c , java , Dockerfile.**
 - Live previews
 - Fullscreen mode
 - Cross platform
+- dependecies enable
 
 
 
