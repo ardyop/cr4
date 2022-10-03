@@ -2,7 +2,7 @@ int main()
 {
   
     // prints hello world
-    printf("Hello World");
+    printf("compile server successfully");
   
     return 0;
 }
